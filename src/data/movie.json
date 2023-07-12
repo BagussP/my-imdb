@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "title": "Black Panther",
+    "release_year": 2018,
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "directors": ["Ryan Coogler"],
+    "actors": ["Chadwick Boseman", "Michael B. Jordan", "Lupita Nyong'o"],
+    "rating": 7.3,
+    "slug": "Black-Panther",
+    "synopsis": "T'Challa, putra Wakanda yang baru saja menjadi raja, harus menghadapi tantangan besar ketika musuh lama keluarganya muncul. Dengan bantuan dari para sekutunya, T'Challa harus menggunakan kekuatan Black Panther untuk melindungi Wakanda dan menyelamatkan dunia dari ancaman yang ada."
+  },
+  {
+    "id": 2,
+    "title": "Avengers: Infinity War",
+    "release_year": 2018,
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "directors": ["Anthony Russo", "Joe Russo"],
+    "actors": ["Robert Downey Jr.", "Chris Hemsworth", "Mark Ruffalo"],
+    "rating": 8.5,
+    "slug": "Infinity-War",
+    "synopsis": "Ketika misi IMF yang salah berakhir dengan buruk, Ethan Hunt dan timnya harus melacak plutonium yang hilang sebelum jatuh ke tangan organisasi teroris. Dalam perlombaan melawan waktu, mereka harus menghadapi bahaya yang tak terduga dan mempertaruhkan segalanya untuk menghentikan ancaman global."
+  },
+  {
+    "id": 3,
+    "title": "Mission: Impossible - Fallout",
+    "release_year": 2018,
+    "genre": ["Action", "Adventure", "Thriller"],
+    "directors": ["Christopher McQuarrie"],
+    "actors": ["Tom Cruise", "Henry Cavill", "Ving Rhames"],
+    "rating": 7.7,
+    "slug": "Mission-Impossible",
+    "synopsis": "Ketika seorang remaja biasa bernama Miles Morales secara tak terduga mendapatkan kekuatan laba-laba seperti Spider-Man, ia menemukan dirinya terjebak dalam perjuangan antar-dimensi. Miles harus belajar menjadi pahlawan sejati saat ia bergabung dengan Spider-Men dari berbagai realitas untuk melawan ancaman yang mengancam keberadaan semua alam semesta."
+  },
+  {
+    "id": 4,
+    "title": "Spider-Man: Into the Spider-Verse",
+    "release_year": 2018,
+    "genre": ["Animation", "Action", "Adventure"],
+    "directors": ["Bob Persichetti", "Peter Ramsey", "Rodney Rothman"],
+    "actors": ["Shameik Moore", "Jake Johnson", "Hailee Steinfeld"],
+    "rating": 8.4,
+    "slug": "Into-the-Spider-Verse",
+    "synopsis": "Ketika seorang remaja biasa bernama Miles Morales secara tak terduga mendapatkan kekuatan laba-laba seperti Spider-Man, ia menemukan dirinya terjebak dalam perjuangan antar-dimensi. Miles harus belajar menjadi pahlawan sejati saat ia bergabung dengan Spider-Men dari berbagai realitas untuk melawan ancaman yang mengancam keberadaan semua alam semesta."
+  },
+  {
+    "id": 5,
+    "title": "A Star Is Born",
+    "release_year": 2018,
+    "genre": ["Drama", "Music", "Romance"],
+    "directors": ["Bradley Cooper"],
+    "actors": ["Lady Gaga", "Bradley Cooper", "Sam Elliott"],
+    "rating": 7.7,
+    "slug": "A-Star-Is-Born",
+    "synopsis": "Ketika seorang penyanyi berbakat yang sedang bangkit namanya bertemu dengan seorang musisi berpengalaman yang berjuang, hubungan mereka yang intens dan penuh cinta menjadi semakin rumit oleh industri musik yang keras dan dunia selebriti yang penuh tekanan."
+  },
+  {
+    "id": 6,
+    "title": "Parasite",
+    "release_year": 2019,
+    "genre": ["Comedy", "Drama", "Thriller"],
+    "directors": ["Bong Joon-ho"],
+    "actors": ["Kang-ho Song", "Sun-kyun Lee", "Yeo-jeong Jo"],
+    "rating": 8.6,
+    "slug": "Parasite",
+    "synopsis": "Keluarga Kim, yang miskin dan pengangguran, melihat peluang untuk mengubah nasib mereka ketika anak laki-laki mereka mendapatkan pekerjaan sebagai guru les untuk keluarga kaya Park. Namun, rahasia dan intrik tersembunyi segera mengancam untuk menghancurkan rencana mereka."
+  },
+  {
+    "id": 7,
+    "title": "Joker",
+    "release_year": 2019,
+    "genre": ["Crime", "Drama", "Thriller"],
+    "directors": ["Todd Phillips"],
+    "actors": ["Joaquin Phoenix", "Robert De Niro", "Zazie Beetz"],
+    "rating": 8.4,
+    "slug": "Joker",
+    "synopsis": "Arthur Fleck, seorang pria yang diabaikan oleh masyarakat, mencoba bertahan dalam masyarakat yang keras dan kejam di Kota Gotham yang penuh kejahatan. Ketika dia jatuh ke dalam kegilaan, dia mengadopsi persona 'Joker' dan memicu perubahan yang berbahaya dalam kota tersebut."
+  },
+  {
+    "id": 8,
+    "title": "1917",
+    "release_year": 2019,
+    "genre": ["Drama", "War"],
+    "directors": ["Sam Mendes"],
+    "actors": ["Dean-Charles Chapman", "George MacKay", "Daniel Mays"],
+    "rating": 8.3,
+    "slug": "1917",
+    "synopsis": "Selama Perang Dunia I, dua prajurit muda Inggris diberikan misi yang tampaknya mustahil. Mereka harus melintasi garis depan musuh yang mematikan untuk memberikan pesan yang akan menyelamatkan ribuan nyawa, termasuk salah satu dari mereka sendiri."
+  },
+  {
+    "id": 9,
+    "title": "Knives Out",
+    "release_year": 2019,
+    "genre": ["Comedy", "Crime", "Drama"],
+    "directors": ["Rian Johnson"],
+    "actors": ["Daniel Craig", "Chris Evans", "Ana de Armas"],
+    "rating": 7.9,
+    "slug": "Knives-Out",
+    "synopsis": "Setelah kematian misterius seorang novelis terkenal, detektif swasta Benoit Blanc dipanggil untuk menyelidiki. Dalam rumah yang penuh intrik ini, setiap anggota keluarga menjadi tersangka, dan semua orang memiliki motif yang kuat. Dalam permainan kecerdasan yang berbahaya, Blanc harus memecahkan teka-teki dan mengungkap kebenaran yang sebenarnya."
+  },
+  {
+    "id": 10,
+    "title": "Once Upon a Time in Hollywood",
+    "release_year": 2019,
+    "genre": ["Comedy", "Drama"],
+    "directors": ["Quentin Tarantino"],
+    "actors": ["Leonardo DiCaprio", "Brad Pitt", "Margot Robbie"],
+    "rating": 7.6,
+    "slug": "Once-Upon-a-Time-in-Hollywood",
+    "synopsis": "Di Hollywood pada tahun 1969, aktor televisi Rick Dalton dan penembak jalanan profesional Cliff Booth berusaha menjaga keberhasilan mereka di dunia yang berubah dengan cepat. Saat kisah mereka berkelok-kelok melalui industri film yang semakin kompleks, mereka berhadapan dengan masa lalu yang gelap dan menghadapi perubahan besar dalam industri yang mereka cintai."
+  }
+]
