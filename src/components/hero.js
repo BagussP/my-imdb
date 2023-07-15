@@ -70,8 +70,8 @@ export const Hero = ({ data }) => {
               key={data.id}
               className={
                 index * -800 == currentIndex
-                  ? `bg-red-600 p-2`
-                  : `bg-green-600 p-2`
+                  ? `bg-black border-2 border-white rounded-full p-2`
+                  : `bg-black border-2 border-white rounded-full  p-2 opacity-50`
               }
               onClick={() => {
                 setCurrentIndex(index * -800);

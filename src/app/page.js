@@ -4,7 +4,7 @@ import { Hero } from "@/components/hero";
 import Image from "next/image";
 import { getAllMovies } from "@/lib/movie";
 import { Featured } from "@/components/featured";
-import { Wishlist } from "@/components/wishlist";
+import { Genre } from "@/components/genre";
 
 export default function Home() {
   const [data, setdata] = useState([])
@@ -16,10 +16,12 @@ export default function Home() {
   }, []);
 
   return (
-    <main className="bg-white h-screen">
+    <main className="bg-[#ececec] justify-center gap-5 flex">
+      <div className="">
       <Hero data={data} />
       <Featured data={data}/>
-      <Wishlist data={data}/>
+      </div>
+      <Genre data={data}/>
     </main>
   );
 }
