@@ -8,20 +8,6 @@ import { getAllMovies } from "@/lib/movie";
 export const Navigation = () => {
   const [data, setData] = useState([]);
   const [filter, setFilter] = useState([]);
-    const [isNavVisible, setIsNavVisible] = useState(true);
-
-    useEffect(() => {
-      const handleScroll = () => {
-        const scrollPosition = window.pageYOffset;
-        setIsNavVisible(scrollPosition < 100);
-      };
-
-      window.addEventListener("scroll", handleScroll);
-
-      return () => {
-        window.removeEventListener("scroll", handleScroll);
-      };
-    }, []);
 
   useEffect(() => {
     getAllMovies().then((data) => {

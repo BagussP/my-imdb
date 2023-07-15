@@ -1,6 +1,6 @@
   export const getAllMovies = async () => {
     try {
-      let response = await fetch("http://localhost:3000/api/movie");
+      let response = await fetch("https://bagussp-imdb.netlify.app/api/movie");
       let movie = await response.json();
       return movie
     } catch (error) {
