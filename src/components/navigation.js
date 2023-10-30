@@ -12,7 +12,7 @@ export const Navigation = () => {
   useEffect(() => {
     getAllMovies().then((data) => {
       setData(data.movie);
-    });
+    }).catch((error) => console.log("error", error));
   }, []);
 
   const handleSearch = (event) => {
