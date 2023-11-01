@@ -14,7 +14,7 @@ export default function RootLayout({ children }) {
           href="./logo.png"
         />
         <link rel="manifest" href="manifest.webmanifest" />
-        <title>Ujang</title>
+        <title>bagussp-imdb</title>
       </head>
       <body>
         <Navigation />
